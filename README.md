@@ -1,6 +1,6 @@
-# info
+<h1 style="text-align: center">Info</h1> 
  
-To create a clickable shortcut that opens a website, you can create a `.desktop` file in Linux. A `.desktop` file is a standard way to create shortcuts in desktop environments like GNOME, KDE, and others.
+## To create a clickable shortcut that opens a website, you can create a `.desktop` file in Linux. A `.desktop` file is a standard way to create shortcuts in desktop environments like GNOME, KDE, and others.
 
 Here’s how you can create a `.desktop` file to open a website:
 
