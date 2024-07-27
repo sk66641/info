@@ -93,3 +93,8 @@ mv ~/example_website.desktop ~/Desktop/
 ```
 
 Now you should have a clickable shortcut on your desktop that opens `https://www.example.com` in your default web browser when clicked.
+
+##opening a site using terminal
+```
+xdg-open https://github.com/sk66641
+```
