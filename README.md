@@ -98,3 +98,8 @@ Now you should have a clickable shortcut on your desktop that opens `https://www
 ```
 xdg-open https://github.com/sk66641
 ```
+
+## Editing tools:
+```
+gedit, nano
+```
