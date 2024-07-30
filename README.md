@@ -103,3 +103,8 @@ xdg-open https://github.com/sk66641
 ```
 gedit, nano
 ```
+
+## Installing Debian file:
+```
+sudo dpkg -i debian_file
+```
