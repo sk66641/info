@@ -108,3 +108,10 @@ gedit, nano
 ```
 sudo dpkg -i debian_file
 ```
+## To merge MP4 videos into a single file: 
+```
+sudo apt install gpac
+```
+```
+MP4Box -cat vieod1.mp4 -cat video2.mp4 -new combinedvideofile.mp4 
+```
